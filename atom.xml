@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sorossnowboy.github.io/"/>
-  <updated>2020-07-18T19:58:17.435Z</updated>
+  <updated>2020-07-18T20:02:32.613Z</updated>
   <id>http://sorossnowboy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sorossnowboy.github.io/2020/07/19/%E3%80%90%E9%9B%B7%E5%AE%89%E3%80%91%E7%8B%BC%E4%BA%BA%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
     <id>http://sorossnowboy.github.io/2020/07/19/%E3%80%90%E9%9B%B7%E5%AE%89%E3%80%91%E7%8B%BC%E4%BA%BA%E6%B8%B8%E6%88%8F%20%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
     <published>2020-07-18T19:54:43.000Z</published>
-    <updated>2020-07-18T19:58:17.435Z</updated>
+    <updated>2020-07-18T20:02:32.613Z</updated>
     
     <content type="html"><![CDATA[<p>1111</p>]]></content>
     
@@ -36,6 +36,8 @@
     </summary>
     
     
+    
+      <category term="雷安" scheme="http://sorossnowboy.github.io/tags/%E9%9B%B7%E5%AE%89/"/>
     
   </entry>
   
