@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sorossnowboy.github.io/"/>
-  <updated>2020-07-18T03:12:05.660Z</updated>
+  <updated>2020-07-18T04:04:10.498Z</updated>
   <id>http://sorossnowboy.github.io/</id>
   
   <author>
@@ -17,21 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>just-a-test.md</title>
-    <link href="http://sorossnowboy.github.io/2020/07/18/just-a-test-md/"/>
-    <id>http://sorossnowboy.github.io/2020/07/18/just-a-test-md/</id>
-    <published>2020-07-18T03:11:20.000Z</published>
-    <updated>2020-07-18T03:12:05.660Z</updated>
+    <title>文章示例</title>
+    <link href="http://sorossnowboy.github.io/2020/07/18/post-name/"/>
+    <id>http://sorossnowboy.github.io/2020/07/18/post-name/</id>
+    <published>2020-07-18T04:02:49.000Z</published>
+    <updated>2020-07-18T04:04:10.498Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="title"><a href="#title" class="headerlink" title="title"></a>title</h1><p>It is a post test.</p><p>Done.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h1><p>这里开始编辑文章内容，按Markdown语法，不会就去找个Markdown编辑器即可。<br>写完保存。</p><h1 id="渲染发布"><a href="#渲染发布" class="headerlink" title="渲染发布"></a>渲染发布</h1>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;title&quot;&gt;&lt;a href=&quot;#title&quot; class=&quot;headerlink&quot; title=&quot;title&quot;&gt;&lt;/a&gt;title&lt;/h1&gt;&lt;p&gt;It is a post test.&lt;/p&gt;
-&lt;p&gt;Done.&lt;/p&gt;
-
+        &lt;h1 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h1&gt;&lt;p&gt;这里开始编辑文章内容，按Markdown语法，不会就去找个Markdown编辑器即可。&lt;br&gt;写完保存。&lt;/p&gt;
+&lt;h1 id=&quot;渲染发布&quot;
       
     
     </summary>
