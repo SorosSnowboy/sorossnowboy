@@ -858,9 +858,9 @@ a {
 }
 #header .header-nav .social .bilibili {
   background: url("/img/bilibili.png") center no-repeat #f589a0;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  background-size: 100%;
+  -webkit-background-size: 65%;
+  -moz-background-size: 65%;
+  background-size: 65%;
 }
 #header .header-nav .social .AcFun {
   background: url("/img/AcFun.png") center no-repeat #fbc054;
