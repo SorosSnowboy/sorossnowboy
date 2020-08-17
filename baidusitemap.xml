@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sorossnowboy.github.io/2020/07/20/gs3/</loc>
+    <lastmod>2020-08-17</lastmod>
+  </url>
+  <url>
+    <loc>http://sorossnowboy.github.io/2020/07/20/gs2/</loc>
+    <lastmod>2020-08-17</lastmod>
+  </url>
+  <url>
+    <loc>http://sorossnowboy.github.io/2020/07/20/gs1/</loc>
+    <lastmod>2020-08-17</lastmod>
+  </url>
+  <url>
     <loc>http://sorossnowboy.github.io/2020/07/19/1/</loc>
     <lastmod>2020-08-17</lastmod>
   </url>
@@ -63,18 +75,6 @@
   <url>
     <loc>http://sorossnowboy.github.io/2020/07/19/5/</loc>
     <lastmod>2020-07-24</lastmod>
-  </url>
-  <url>
-    <loc>http://sorossnowboy.github.io/2020/07/20/%E3%80%90%E9%9B%B7%E5%AE%89%E3%80%91%E9%AB%98%E5%B1%B1%E4%B8%8E%E5%B9%B3%E5%8E%9F%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
-    <lastmod>2020-07-20</lastmod>
-  </url>
-  <url>
-    <loc>http://sorossnowboy.github.io/2020/07/20/%E3%80%90%E9%9B%B7%E5%AE%89%E3%80%91%E9%AB%98%E5%B1%B1%E4%B8%8E%E5%B9%B3%E5%8E%9F%EF%BC%88%E4%B8%8B%EF%BC%89/</loc>
-    <lastmod>2020-07-20</lastmod>
-  </url>
-  <url>
-    <loc>http://sorossnowboy.github.io/2020/07/20/%E3%80%90%E9%9B%B7%E5%AE%89%E3%80%91%E9%AB%98%E5%B1%B1%E4%B8%8E%E5%B9%B3%E5%8E%9F%EF%BC%88%E4%B8%AD%EF%BC%89/</loc>
-    <lastmod>2020-07-20</lastmod>
   </url>
   <url>
     <loc>http://sorossnowboy.github.io/2020/07/19/hello-world%20copy/</loc>
