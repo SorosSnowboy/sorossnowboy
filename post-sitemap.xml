@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>http://sorossnowboy.github.io/2020/08/17/a1/</loc>
+        <lastmod>2020-08-17T14:31:40.602Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://sorossnowboy.github.io/2020/08/17/a2/</loc>
+        <lastmod>2020-08-17T14:31:00.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://sorossnowboy.github.io/2020/07/20/gs3/</loc>
         <lastmod>2020-08-17T14:29:02.753Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -34,22 +50,6 @@
     <url>
         <loc>http://sorossnowboy.github.io/2020/07/19/1/</loc>
         <lastmod>2020-08-17T14:24:59.707Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://sorossnowboy.github.io/2020/08/17/a1/</loc>
-        <lastmod>2020-08-17T14:24:56.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://sorossnowboy.github.io/2020/08/17/a2/</loc>
-        <lastmod>2020-08-17T14:24:54.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
