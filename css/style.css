@@ -138,7 +138,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Times, Georgia, serif;
+  font-family: Apple LiGothic Medium, Georgia, serif;
   font-weight: bold;
 }
 h1,
@@ -551,7 +551,7 @@ a {
 .header-author {
   text-align: center;
   margin: 13px 0;
-  font-family: Times, Georgia, serif;
+  font-family: Apple LiGothic Medium, Georgia, serif;
   font-size: 30px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -3090,6 +3090,6 @@ p.no-result {
   padding-bottom: 0.5em;
   text-align: left;
   color: #808080;
-  font-family: Times, Georgia serif;
+  font-family: Apple LiGothic Medium, Georgia serif;
   border-bottom: 2px solid #d3d3d3;
 }
