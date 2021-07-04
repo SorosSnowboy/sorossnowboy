@@ -2,55 +2,55 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://sorossnowboy.github.io</loc>
+        <loc>https://sorossnowboy.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/index-5.html</loc>
+        <loc>https://sorossnowboy.github.io/tags/index-5.html</loc>
         <lastmod>2020-08-17T14:27:21.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/index-4.html</loc>
+        <loc>https://sorossnowboy.github.io/tags/index-4.html</loc>
         <lastmod>2020-08-17T14:21:47.665Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/index-3.html</loc>
+        <loc>https://sorossnowboy.github.io/tags/index-3.html</loc>
         <lastmod>2020-08-17T14:00:16.075Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/index-2.html</loc>
+        <loc>https://sorossnowboy.github.io/tags/index-2.html</loc>
         <lastmod>2020-07-20T08:55:00.140Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/index-1.html</loc>
+        <loc>https://sorossnowboy.github.io/tags/index-1.html</loc>
         <lastmod>2020-07-18T20:17:32.789Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/tags/</loc>
+        <loc>https://sorossnowboy.github.io/tags/</loc>
         <lastmod>2020-07-18T20:13:48.817Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://sorossnowboy.github.io/about/</loc>
+        <loc>https://sorossnowboy.github.io/about/</loc>
         <lastmod>2020-07-18T06:12:10.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
